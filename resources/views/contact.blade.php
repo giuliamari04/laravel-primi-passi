@@ -14,8 +14,8 @@
         </ul>
     </nav>
 
-<h1>Home Page</h1>
-    <h3>{{ $text }}</h3>
+<h1>Contact Page</h1>
+    <h3>{{ $text3 }}</h3>
 
 </body>
 </html>
